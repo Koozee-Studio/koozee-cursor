@@ -1,0 +1,22 @@
+{
+  "name": "koozee",
+  "displayName": "Koozee",
+  "version": "1.0.0",
+  "description": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "author": {
+    "name": "Koozee"
+  },
+  "homepage": "https://koozee.ai",
+  "keywords": [
+    "koozee",
+    "fashion images",
+    "fashion videos",
+    "ecommerce AI images",
+    "ecommerce AI videos",
+    "virtual try-on tool",
+    "canvas",
+    "design",
+    "workflow"
+  ],
+  "logo": "assets/icon.png"
+}
