@@ -1,6 +1,8 @@
 # Koozee for Cursor
 
-Create fashion workflows on a free canvas. Batch-generate fashion images and videos.
+Create fashion images and videos with AI—all in one place.
+
+Koozee is an AI visual marketing tool for fashion retailers, brands, and entrepreneurs. Use it with Cursor to create virtual try-ons, on-model lifestyle images, and fashion marketing videos with simple prompts. Let Cursor run workflows to generate images and videos in batches, or build your own on Koozee’s visual canvas. From product listings to marketing campaigns, create compelling visuals and make your products stand out.
 
 This repository is a Cursor plugin. The clone root has `.cursor-plugin/plugin.json` and `mcp.json`.
 
